@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.app-debug-44:/layout_activity_product_detail.xml.flat",
+        "source": "com.example.app-main-46:/layout/activity_product_detail.xml"
+    },
+    {
+        "merged": "com.example.app-debug-44:/layout_layout_product_page.xml.flat",
+        "source": "com.example.app-main-46:/layout/layout_product_page.xml"
+    },
+    {
+        "merged": "com.example.app-debug-44:/layout_item_product_page.xml.flat",
+        "source": "com.example.app-main-46:/layout/item_product_page.xml"
+    }
+]

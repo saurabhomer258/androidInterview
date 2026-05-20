@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+id imageView
+id main
+id product_price
+id product_title
+id progess_bar
+id recycler_view
+layout activity_product_detail
+layout item_product_page
+layout layout_product_page
+string app_name
+style Theme.App

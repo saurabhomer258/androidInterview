@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.app-mergeDebugResources-43:/layout/item_product_page.xml",
+        "source": "com.example.app-main-46:/layout/item_product_page.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-43:/layout/activity_product_detail.xml",
+        "source": "com.example.app-main-46:/layout/activity_product_detail.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-43:/layout/layout_product_page.xml",
+        "source": "com.example.app-main-46:/layout/layout_product_page.xml"
+    }
+]
